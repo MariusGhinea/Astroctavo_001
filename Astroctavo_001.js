@@ -1,3 +1,4 @@
+//test 001
 const myCanvas = document.getElementById("myCanvas");
 const ctx = myCanvas.getContext("2d");
 
